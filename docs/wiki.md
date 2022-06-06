@@ -2,23 +2,23 @@
 
 # 方案
 
-## docsify + github pages
+docsify + github pages
 
 # 流程
 
-## 安装docsify
+1. 安装docsify
 
 ```
 npm i docsify-cli -g
 ```
 
-## 初始化文档
+2. 初始化文档
 
 ```
 docsify init ./docs
 ```
 
-## 修改目录结构与侧边栏
+3. 修改目录结构与侧边栏
 
 ```
 docs/
@@ -28,7 +28,7 @@ docs/
   wiki.md                 #本篇文档
 ```
 
-### 修改_sidebar.md
+- 3.1 修改_sidebar.md
 
 ```
 <!-- docs/_sidebar.md -->
@@ -37,14 +37,14 @@ docs/
 * [搭建个人wiki](wiki.md)
 ```
 
- ### 修改首页README.md
+- 3.2 修改首页README.md
 
 ```
 # wiki
 [搭建个人wiki](wiki.md)
 ```
 
-### 修改index.html
+- 3.3 修改index.html
 
 ```
 <body>
@@ -74,4 +74,4 @@ docsify serve docs
 
 参考 https://docs.github.com/cn/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
-## 将docs文件夹上传至该仓库
+## 将docs文件夹上传至github
