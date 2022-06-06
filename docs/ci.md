@@ -1,6 +1,7 @@
 # 一 环境搭建
 
 1. apt 源修改
+
 ```
 vi /etc/apt/sources.list
 
@@ -22,6 +23,7 @@ deb-src http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted univer
 ```
 
 2. 安装dnsmasq
+
 ```
 systemctl disable systemd-resolved.service  
 systemctl stop systemd-resolved.service 
@@ -46,7 +48,7 @@ vim /opt/dns/hosts
 ```
 
 3. 安装java
-3. 安装docker
+4. 安装docker
 ```
 curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
@@ -55,6 +57,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 ```
 
 5. 安装gitlab
+
 ```
 docker pull gitlab/gitlab-ce:latest
 ```
@@ -84,6 +87,7 @@ docker-compose up -d
 ```
 
 6. 安装gitlab runner
+
 ```
 curl -LJO "https://gitlab-runner-downloads.s3.amazonaws.com/latest/deb/gitlab-runner_amd64.deb"
 dpkg -i gitlab-runner_amd64.deb
@@ -97,6 +101,7 @@ gitlab-runner register
 ```
 
 7. 配置gitlab 备份
+
 ```
 配置到备机免密
 ssh-copy-id -i ~/.ssh/id_rsa.pub root@192.168.1.2
@@ -121,6 +126,7 @@ crontab -e
 ```
 
 8. 配置gitlab hook校验提交信息
+
 ```
 mkdir -p /opt/gitlab/data/hooks/pre-receive.d
 ```
