@@ -1,2 +1,2 @@
 # wiki
-[搭建个人wiki](guide.md)
+[搭建个人wiki](wiki.md)
