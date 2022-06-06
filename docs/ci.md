@@ -506,6 +506,7 @@ vi /etc/gitlab-runner/config.toml
 volumes = ["/cache","/var/run/docker.sock:/var/run/docker.sock"]
 pull_policy = "if-not-present"
 ```
+
 ```
 stages:
   - prepare
