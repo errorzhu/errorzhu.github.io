@@ -11,6 +11,9 @@
 <body>
   <div id="app">despacito</div>
   <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('scripts/sw.js')
+  }
     window.$docsify = {
       loadSidebar: true,
       name: '',
