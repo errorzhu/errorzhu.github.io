@@ -328,7 +328,7 @@ exit 0
 
 9. 配置cicd流水线
 
-![](https://images.xiaozhuanlan.com/photo/2022/0ad6429f4242d74dd0dae02528c4b1f9.png)
+![](images/wiki/ci.png)
 ```
 stages:          # List of stages for jobs, and their order of execution
   - prepare
