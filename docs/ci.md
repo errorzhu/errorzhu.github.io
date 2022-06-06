@@ -417,12 +417,12 @@ deploy-job:      # This job runs in the deploy stage.
 ```
 
 11. 安装 sonarqube
+
 ```
 mkdir -p  /opt/sonarqube
 cd /opt/sonarqube
 vi compose.yml
 version: '2'
-
 services:
   # database service: postgres
   postgres:
@@ -439,8 +439,6 @@ services:
         POSTGRES_PASSWORD: sonar
         POSTGRESQL_DATABASE: sonar
     restart: "no"
-
-    
   # Security service: sonarqube
   sonarqube:
     image: sonarqube:8.9.2-community
@@ -459,23 +457,21 @@ services:
       - sonar.jdbc.url=jdbc:postgresql://postgres:5432/sonar
       - SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true  
     restart: "no"
-
 networks:
   sonarnet:
     driver: bridge
-    
 volumes:
   sonar_data:
   sonar_conf:
   sonar_log:
   sonar_extensions:
-
 ```
 ```
 docker-compose up -d 
 ```
 
 12. 安装sonar-scanner
+
 ```
 wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.6.2.2472-linux.zip
 -o /opt/sonarqube
@@ -486,6 +482,7 @@ ln -s  /opt/sonarqube/sonar-scanner-4.6.2.2472-linux/bin/sonar-scanner /usr/bin/
 ```
 
 13. 搭建私有docker registry
+
 ```
 1 vi /etc/docker/daemon.json 
 
