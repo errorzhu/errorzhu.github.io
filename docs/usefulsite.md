@@ -45,5 +45,8 @@ https://lfaidata.foundation/projects/
 ## 开源源码下载
 https://repo1.maven.org/maven2/
 
-##排名
+## 排名
 https://www.tiobe.com/tiobe-index/
+
+## paper
+https://dl.acm.org/
