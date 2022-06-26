@@ -54,3 +54,6 @@ https://dl.acm.org/
 
 ## maven仓库
 https://developer.aliyun.com/mvn/view
+
+## 资源汇总
+https://github.com/trimstray/the-book-of-secret-knowledge
