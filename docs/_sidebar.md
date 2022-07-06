@@ -9,4 +9,5 @@
 * [一些有用的网站](usefulsite.md)
 * [编码详解](encode.md)
 * [centos7升级内核](centos_kernal.md)
+* [freeipa实战](freeipa.md)
 * [解决过的有趣问题](solved/)
