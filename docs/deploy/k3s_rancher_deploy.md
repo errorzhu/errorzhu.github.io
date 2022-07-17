@@ -1,3 +1,5 @@
+# k3s+rancher 单机部署
+
 1. 准备
 
 rancher 需要满足严格的版本兼容性，请参考[https://www.suse.com/suse-rancher/support-matrix/all-supported-versions/rancher-v2-5-9/](https://www.suse.com/suse-rancher/support-matrix/all-supported-versions/rancher-v2-5-9/)

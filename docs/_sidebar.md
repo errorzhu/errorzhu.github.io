@@ -10,6 +10,7 @@
 * [编码详解](encode.md)
 * [centos7升级内核](centos_kernal.md)
 * [freeipa实战](freeipa.md)
+* [自定义Prometheus exporter](custom_prometheus_exporter.md)
 * [一些常用部署](deploy/)
 * [有趣的架构](arch/)
 * [解决过的有趣问题](solved/)
