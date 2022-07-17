@@ -11,5 +11,6 @@
 * [centos7升级内核](centos_kernal.md)
 * [freeipa实战](freeipa.md)
 * [一些常用部署](deploy/)
+* [有趣的架构](arch/)
 * [解决过的有趣问题](solved/)
 
