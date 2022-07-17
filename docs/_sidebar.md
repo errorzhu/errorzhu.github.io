@@ -10,4 +10,6 @@
 * [编码详解](encode.md)
 * [centos7升级内核](centos_kernal.md)
 * [freeipa实战](freeipa.md)
+* [一些常用部署](deploy/)
 * [解决过的有趣问题](solved/)
+
