@@ -63,3 +63,6 @@ https://devdocs.io/
 
 ## 数据库相关
 https://datacadamia.com/
+
+## 项目idea
+https://github.com/practical-tutorials/project-based-learning#python
