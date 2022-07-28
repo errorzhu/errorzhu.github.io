@@ -15,6 +15,7 @@
 * [python依赖跨平台迁移](python_migrate.md)
 * [python 统一开发环境](python_unify_dev_ide.md)
 * [使用vagrant快速创建虚拟机](vagrant.md)
+* [使用qemu在windows上创建arm的树莓派系统](qemu_rasp.md)
 * [maven 常用插件](maven_plugin.md)
 * [一些常用部署](deploy/)
 * [有趣的架构](arch/)
