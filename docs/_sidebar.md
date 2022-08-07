@@ -9,6 +9,7 @@
 * [自定义Prometheus exporter](custom_prometheus_exporter.md)
 * [选http还是rpc](http_or_rpc.md)
 * [presto优化](presto_optimse.md)
+* [spark on k8s](spark_on_k8s.md)
 * [一些常用部署](deploy/)
 * [有趣的架构](arch/)
 * [解决过的有趣问题](solved/)
