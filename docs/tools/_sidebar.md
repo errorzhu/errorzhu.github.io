@@ -9,6 +9,7 @@
 * [python 统一开发环境](tools/python_unify_dev_ide.md)
 * [使用vagrant快速创建虚拟机](tools/vagrant.md)
 * [maven 常用插件](tools/maven_plugin.md)
+* [maven 使用总结](tools/maven.md)
 
 
 
