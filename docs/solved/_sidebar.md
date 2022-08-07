@@ -8,4 +8,5 @@
 * [记一次flink导数据异常](solved/flink_stuck.md)
 * [记一次time_wait短暂连接排查](solved/time_wait_short.md)
 * [记kerberos认证慢的异常](solved/kerberos_slow.md)
+* [记两个问题(kibana 和 spark)](solved/two_problems.md)
 
