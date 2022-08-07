@@ -18,6 +18,7 @@
 * [使用vagrant快速创建虚拟机](vagrant.md)
 * [使用qemu在windows上创建arm的树莓派系统](qemu_rasp.md)
 * [SBC2D06使用自定义rootfs](SBC2D06.md)
+* [presto优化](presto_optimse.md)
 * [maven 常用插件](maven_plugin.md)
 * [一些常用部署](deploy/)
 * [有趣的架构](arch/)
