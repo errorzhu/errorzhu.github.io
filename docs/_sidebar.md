@@ -13,6 +13,7 @@
 * [记一次hbase表设计](hbase_design.md)
 * [elasticsearch性能测试与瓶颈分析](es_profile.md)
 * [elasticsearch中的数据结构](es_data_structure.md)
+* [hyperloglog 在 elasticsearch 中 的应用](hyperloglog_es.md)
 * [常用排序总结](sort.md)
 * [常用部署](deploy/)
 * [常用工具](tools/)
