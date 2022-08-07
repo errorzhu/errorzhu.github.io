@@ -10,6 +10,7 @@
 * [使用vagrant快速创建虚拟机](tools/vagrant.md)
 * [maven 常用插件](tools/maven_plugin.md)
 * [maven 使用总结](tools/maven.md)
+* [使用systemd管理elasticsearch](tools/systemd.md)
 
 
 
