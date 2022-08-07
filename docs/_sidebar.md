@@ -10,6 +10,7 @@
 * [选http还是rpc](http_or_rpc.md)
 * [presto优化](presto_optimse.md)
 * [spark on k8s](spark_on_k8s.md)
+* [记一次hbase表设计](hbase_design.md)
 * [常用部署](deploy/)
 * [常用工具](tools/)
 * [物联网相关](iot/)
