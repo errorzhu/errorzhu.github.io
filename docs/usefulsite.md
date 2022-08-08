@@ -66,3 +66,9 @@ https://datacadamia.com/
 
 ## 项目idea
 https://github.com/practical-tutorials/project-based-learning#python
+
+## iot
+https://www.thirtythreeforty.net/posts/2019/08/mastering-embedded-linux-part-1-concepts/
+https://mirrors.tuna.tsinghua.edu.cn/armbian-releases/_toolchain/
+http://releases.linaro.org/components/toolchain/binaries/
+https://bootlin.com/training/buildroot/
