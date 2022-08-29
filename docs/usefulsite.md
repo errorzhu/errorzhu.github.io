@@ -72,3 +72,7 @@ https://www.thirtythreeforty.net/posts/2019/08/mastering-embedded-linux-part-1-c
 https://mirrors.tuna.tsinghua.edu.cn/armbian-releases/_toolchain/
 http://releases.linaro.org/components/toolchain/binaries/
 https://bootlin.com/training/buildroot/
+
+## office
+https://otp.landian.vip/zh-cn/download.html
+https://www.coolhub.top/archives/14
