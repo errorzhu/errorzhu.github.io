@@ -15,6 +15,7 @@
 * [elasticsearch中的数据结构](es_data_structure.md)
 * [hyperloglog 在 elasticsearch 中 的应用](hyperloglog_es.md)
 * [常用排序总结](sort.md)
+* [web api设计](web_api_design.md)
 * [常用部署](deploy/)
 * [常用工具](tools/)
 * [物联网相关](iot/)
