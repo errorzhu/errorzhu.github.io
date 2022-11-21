@@ -10,4 +10,5 @@
 * [记kerberos认证慢的异常](solved/kerberos_slow.md)
 * [记两个问题(kibana 和 spark)](solved/two_problems.md)
 * [记一次 Elasticsearch 的查询崩溃分析 ](solved/es_crash.md)
+* [使ssh远程执行后台进程立即退出ssh ](solved/ssh_exit.md)
 
