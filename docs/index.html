@@ -5,36 +5,46 @@
   <title>my wiki</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!--<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
-  <link rel="stylesheet" href="css/vue.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"/>
+    <style>
+      :root {
+         --theme-hue: 180;
+      }
+    </style>
 
 </head>
 <body>
   <div id="app">despacito</div>
   <script>
-  if (typeof navigator.serviceWorker !== 'undefined') {
+    if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('scripts/sw.js')
   }
+
     window.$docsify = {
-      coverpage: true,
-      loadSidebar: true,
+      coverpage: "_coverpage.md",
+      loadSidebar: "_sidebar.md",
       name: '',
       repo: 'https://github.com/errorzhu/errorzhu.github.io',
+      auto2top: true,
+      maxLevel: 3,
+      subMaxLevel: 3,
       themeable: {
-          readyTransition : true, // default
-          responsiveTables: true  // default
+          readyTransition : false, 
+          responsiveTables: false  
       }
     }
 
   </script>
   <!-- Docsify v4 -->
   <!--<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>-->
-  <script src="scripts/docsify4.js"></script>
-  <script src="scripts/copy-code.js"></script>
+  <!--<script src="scripts/docsify4.js"></script>-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>  
+  <!--<script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!--<script src="https://unpkg.com/docsify-themeable"></script>-->
+  <!--<script src="scripts/copy-code.js"></script>-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 
