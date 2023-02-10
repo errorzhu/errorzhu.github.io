@@ -4,7 +4,6 @@
 
 # 为学日益 
 
-> errorzhu的wiki
 
 - 学习
 - 记录
@@ -12,7 +11,6 @@
 
 
 [GitHub](https://github.com/errorzhu/errorzhu.github.io)
-[Get Started](#docsify)
+[Get Started](#wiki.md)
 
 
-![color](#ABEBC6)
