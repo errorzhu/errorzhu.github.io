@@ -8,4 +8,4 @@
 
 
 [GitHub](https://github.com/errorzhu/errorzhu.github.io)
-[Get Started](#docsify)
+[Get Started]((https://errorzhu.github.io/#/wiki))
