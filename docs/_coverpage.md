@@ -1,6 +1,6 @@
 # 为学日益 
 
-> errorzhu的blog
+> errorzhu的wiki
 
 - 学习
 - 记录
