@@ -1,3 +1,7 @@
+
+
+
+
 # 为学日益 
 
 > errorzhu的wiki
@@ -8,4 +12,7 @@
 
 
 [GitHub](https://github.com/errorzhu/errorzhu.github.io)
-[Get Started]((https://errorzhu.github.io/#/wiki))
+[Get Started](#docsify)
+
+
+![color](#ABEBC6)
