@@ -12,4 +12,5 @@
 * [记一次 Elasticsearch 的查询崩溃分析 ](solved/es_crash.md)
 * [使ssh远程执行后台进程立即退出ssh ](solved/ssh_exit.md)
 * [使用javassist运行时修改第三方依赖 ](solved/javassist_simple.md)
+* [ubuntu设置ip的问题 ](solved/ubuntu_net_config.md)
 
