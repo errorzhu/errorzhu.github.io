@@ -2,6 +2,7 @@
 
 * [首页](README.md)
 * [搭建个人wiki](wiki.md)
+* [系统性能排查](system_performance_debug.md)
 * [使用gitlab做持续集成](ci.md)
 * [一些有用的网站](usefulsite.md)
 * [编码详解](encode.md)
