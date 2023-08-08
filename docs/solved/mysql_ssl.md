@@ -37,7 +37,7 @@ SHOW VARIABLES LIKE 'tls_version';
 来查看
 
 # 总结
-以上问题经常出现在三者不兼容的情况下,可以在url中强制指定tls版本 enabledTLSProtocols=TLSv1.2,TLSv1.3 ,这个参数在Connector/J 8.0.28版本被重命名为enabledTLSProtocols 
+以上问题经常出现在三者不兼容的情况下,可以在url中强制指定tls版本 enabledTLSProtocols=TLSv1.2,TLSv1.3 ,这个参数在Connector/J 8.0.28版本被重命名为tlsVersions 
 可以使用-Djavax.net.debug=all增加调试信息
 
 
