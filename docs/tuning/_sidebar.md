@@ -3,5 +3,6 @@
 * [首页](README.md)
 * [系统性能排查](tuning/system_performance_debug.md)
 * [presto优化](tuning/presto_optimse.md)
+* [linux os知识](tuning/linux_os.md)
 
 
