@@ -6,6 +6,8 @@
 * [spark](component/spark/)
 * [prometheus](component/prometheus/)
 * [hbase](component/hbase/)
+* [kafka](component/kafka/)
+* [activemq](component/activemq/)
 
 
 
