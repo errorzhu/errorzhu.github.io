@@ -16,5 +16,6 @@
 * [flask sqlalchemy更新json字段类型的问题 ](solved/flask_sqlalchemy_update.md)
 * [redis在docker中的性能测试问题 ](solved/redis_performance_in_docker.md) 
 * [java 通过jdbc连接mysql ssl错误 ](solved/mysql_ssl.md) 
+* [datax相关问题](solved/datax_problem.md) 
 
 
