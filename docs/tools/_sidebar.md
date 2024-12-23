@@ -12,6 +12,7 @@
 * [maven 使用总结](tools/maven.md)
 * [使用systemd管理elasticsearch](tools/systemd.md)
 * [使用iptables禁止端口访问](tools/iptables.md)
+* [2024小工具总结](tools/tools_2024.md)
 
 
 
