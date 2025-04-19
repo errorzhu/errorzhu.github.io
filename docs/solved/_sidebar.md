@@ -17,5 +17,6 @@
 * [redis在docker中的性能测试问题 ](solved/redis_performance_in_docker.md) 
 * [java 通过jdbc连接mysql ssl错误 ](solved/mysql_ssl.md) 
 * [datax相关问题](solved/datax_problem.md) 
+* [mysql并发写入cpu过高](solved/mysql_cpu.md)
 
 
