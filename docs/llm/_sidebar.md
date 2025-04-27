@@ -2,5 +2,6 @@
 
 * [首页](README.md)
 * [mcp](llm/mcp.md)
+* [prompt](llm/prompt.md)
 
 
