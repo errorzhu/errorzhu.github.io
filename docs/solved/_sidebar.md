@@ -18,5 +18,6 @@
 * [java 通过jdbc连接mysql ssl错误 ](solved/mysql_ssl.md) 
 * [datax相关问题](solved/datax_problem.md) 
 * [mysql并发写入cpu过高](solved/mysql_cpu.md)
+* [oozie调度任务随机卡住的排查](solved/oozie_not_work.md)
 
 
