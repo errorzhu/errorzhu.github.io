@@ -4,5 +4,6 @@
 * [mcp](llm/mcp.md)
 * [prompt](llm/prompt.md)
 * [微调](llm/fine_tuning.md)
+* [文本提取](llm/extractor.md)
 
 
